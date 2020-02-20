@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Elijah Hansen's programming thingy
 
 You can use the [editor on GitHub](https://github.com/TheNormieCleanser/2020programming1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
